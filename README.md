@@ -1,5 +1,5 @@
 <h1><em><a href="https://wild-florida-mvstoyan.netlify.app" target="_blank">Wild Florida website</a><em></h1>
-    <img src="responsiveFL.png" alt="Project photo" width="auto">
+    <img src="img/responsiveFL.png" alt="Project photo" width="auto">
 <hr>
   <h3>Features:</h3>
   <p>My first educational project about the flora and fauna of Florida, its endangered animals and birds, and the people who work tirelessly to preserve its beauty and wildlife.</p>
