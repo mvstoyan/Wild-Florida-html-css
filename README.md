@@ -12,8 +12,8 @@
       <li><a href="https://www.w3schools.com/html/" target="_blank">HTML</a></li>
       <li><a href="https://www.w3schools.com/css/" target="_blank">CSS</a></li>
         <ul>
-          <li><a href="https://medium.com/@andybarefoot/a-masonry-style-layout-using-css-grid-8c663d355ebb" target="_blank">Masonry style layout with CSS Grid<li>
-      <li><a href="w3schools.com/css/css3_animations.asp" target="_blank">CSS Animations<a><li>
+          <li><a href="https://medium.com/@andybarefoot/a-masonry-style-layout-using-css-grid-8c663d355ebb" target="_blank">Masonry style layout with CSS Grid</li>
+      <li><a href="w3schools.com/css/css3_animations.asp" target="_blank">CSS Animations<a></li>
         </ul>
    </ul>
 <hr>
